@@ -164,17 +164,6 @@ test/
 
 ---
 
-## 🔮 Future Upgrades
-
-* NFT Booking Receipts
-* Signature-based bookings
-* Backend indexer API
-* Loyalty rewards system
-* Booking expiry automation
-* Upgradeable proxy version
-
----
-
 ## 👨‍💻 Author
 
 **Mrinal Singh**
