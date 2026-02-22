@@ -2,7 +2,7 @@
 
 Production-grade Solidity smart contracts for a **Token-Powered Booking Platform** built with **Foundry**, featuring secure payments, refunds, admin-managed services, and custom-error optimized gas usage.
 
----
+--- 
 
 ## 🚀 Deployment Details (Sepolia Testnet)
 
